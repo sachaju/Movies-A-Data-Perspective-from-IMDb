@@ -13,15 +13,11 @@ The goal of this project is to analyze IMDb movie data to uncover trends, insigh
     - Box office earnings, budget, and poster images.  
 
 - **`MoviesDashboard.pbix`**  
-  - Power BI file containing our interactive dashboard, which features:  
-    - Insights into movie ratings, genres, release years, and languages.  
-    - Hover tooltips displaying detailed information (e.g., directors, runtime, box office/budget) along with a movie poster.  
-    - Filters to customize your view and a reset button for ease of use.  
+  - Power BI file containing our interactive dashboard, which features
 
 - **`ProjectSummary.pptx`**  
   - PowerPoint presentation summarizing:  
-    - The project’s objectives, methodology, and results.  
-    - Key insights discovered through the analysis.  
+    - The project’s objectives and methodology 
 
 ---
 
@@ -29,9 +25,11 @@ The goal of this project is to analyze IMDb movie data to uncover trends, insigh
 
 The dataset scraped from IMDb includes the following details for each movie:  
 - **Title**: The name of the movie.  
-- **Director(s)**: Who directed the movie.  
+- **Director(s)**: Who directed the movie.
+- **Writer(s)**: Who wrote the movie.  
 - **Genre**: The primary and secondary genres.  
-- **Rating**: IMDb user rating.  
+- **Rating**: IMDb user rating.
+- **Parental Guide**: Age ratings or content warnings for viewers..  
 - **Runtime**: The movie's duration.  
 - **Box Office & Budget**: Financial performance metrics.  
 - **Language**: The movie's primary language.  
