@@ -47,7 +47,7 @@ The dataset scraped from IMDb includes the following details for each movie:
 - **`BeautifulSoup`**: For parsing HTML and scraping data.  
 - **`Selenium`**: For automating browser actions.  
 - **`Pandas`** & **`NumPy`**: For data manipulation and cleaning.
-- 
+  
 ### **Cleaning & Visualization Tools**  
 - **Power BI**:  
   - Used to clean, merge datasets, and establish relationships between tables.  
