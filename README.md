@@ -38,4 +38,17 @@ The dataset scraped from IMDb includes the following details for each movie:
 - **Runtime**: The movie's duration.  
 - **Box Office & Budget**: Financial performance metrics.  
 - **Language**: The movie's primary language.  
-- **Poster**: A link to the movie poster for visual reference.  
+- **Poster**: A link to the movie poster for visual reference.
+
+
+## 🛠️ Libraries and Tools Used  
+
+### **Python Libraries**  
+- **`BeautifulSoup`**: For parsing HTML and scraping data.  
+- **`Selenium`**: For automating browser actions.  
+- **`Pandas`** & **`NumPy`**: For data manipulation and cleaning.
+- 
+### **Cleaning & Visualization Tools**  
+- **Power BI**:  
+  - Used to clean, merge datasets, and establish relationships between tables.  
+  - Created interactive and visually appealing dashboards for insights. 
