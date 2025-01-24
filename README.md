@@ -1,4 +1,4 @@
-#  🎬 Movies-A-Data-Perspective-from-IMDb
+#  🎬 Movies-A-Data-Perspective-from-
 ## 📌 Objective  
 The goal of this project is to analyze IMDb movie data to uncover trends, insights, and patterns in the film industry. Using data scraping and visualization, we explored various aspects of movies, including directors, genres, ratings, runtimes, and box office performance. The project combines data scraping, cleaning, and visualization into an interactive Power BI dashboard, enriched with additional features like movie posters and tooltips for enhanced user experience.  
 
