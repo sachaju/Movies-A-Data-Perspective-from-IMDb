@@ -16,8 +16,12 @@ The goal of this project is to analyze IMDb movie data to uncover trends, insigh
   - Power BI file containing our interactive dashboard, which features
 
 - **`power_Bi ProjectSummary.pptx`**  
-  - PowerPoint presentation summarizing the project’s objectives and methodology
+  - PowerBi presentation summarizing the project’s objectives and methodology
+## Power BI Dashboard
 
+![Executive Overview](executive_overview.png)
+
+![Workforce and Retention Insights](workforce_retention_insights.png)
 - **Datasets**:  
   - **`merged_movies_data.csv`**  
     - Contains comprehensive information about movies, including title, directors, genres, runtime, box office performance, budget, IMDb rating, parental guidance, release date, etc
